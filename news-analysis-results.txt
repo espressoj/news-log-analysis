@@ -1,0 +1,13 @@
+MOST POPULAR ARTICLES OF ALL TIME:
+"Candidate Is Jerk, Alleges Rival" -- 338647 views
+"Bears Love Berries, Alleges Bear" -- 253801 views
+"Bad Things Gone, Say Good People" -- 170098 views
+
+MOST POPULAR ARTICLE AUTHORS OF ALL TIME:
+Ursula La Multa -- 507594 views
+Rudolf Von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+
+DAY(S) WITH ERROR PERCENTAGE GREATER THAN 1%:
+July 1, 2016 -- 2.3%
